@@ -1,0 +1,6 @@
+node_modules/
+dist/
+*.local
+/feature-news/
+/feature-jobs/
+/feature-sports/
